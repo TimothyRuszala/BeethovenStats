@@ -1,0 +1,196 @@
+Composer: Beethoven
+Piece: Op. 127 no. 12
+Analyst: Rohrmeier et al.
+Proofreader: Timothy Ruszala and Dmitri Tymoczko
+Movement: 2
+
+Form: Theme
+Time Signature: 2/4
+m0 b3.67 Ab: V7
+Time Signature: 12/8
+m1 V7
+Note: bass on b1 understood as a ritardation
+m3 I
+m4 V6/5 b3 V4/3
+m5 I6 b4 I6/4
+Note: Cello understood as conceptual bass here
+m6 b3 V b4.67 V6/5
+m7 I
+m8 V6/5
+m9 I b2 viio6/vi b2.67 vi6 Eb: ii6 b3 V7 b4 I6/4 b4.67 V7
+m9var1 I b2 viio6/vi b2.67 vi6 Eb: ii6 b3 V7
+m10 I || Ab: b3.67 V4/3
+m11 V6/5 b3 V4/3
+m12 I b3 I6
+Note: Beethoven Crashing Thirds (Discuss which inversion to label.)
+m13 V4/3 b4 V6/5/V b4.67 V2
+Note: IV9 may be a little strange, but I’m hearing a very rich predominant harmony on b1.67. Those added notes could be explained away as NHTs, but I hear them as chord members in themselves.
+m14 I6 b1.67 IV9 b2 V7 b3 I || b3.67 V
+m15 V7
+m16 I6/4 b4 V4/3/IV
+Note: is that b1.67 V4/3/IV too much to notate? Put it down primarily because of the Gb, which of course could be a chromatic NT, but to me is clearly really acting as a chordal seventh. Maybe inconsistent, however, since similar instances of I-V7-I made from passing tones I chose earlier not to notate.
+m17 IV b1.67 V4/3/IV b2 IV b2.67 I6 b3 ii7 b3.67 viio2 b4 I6/4 b4.67 V6/5/V
+m18 I6/4 b2 V7 b3 I6/4 b4 V7 b4.67 V2
+m19 V6/5/IV b1.67 V4/3/IV b2 IV b2.67 iv6 b3 vii/o/V b3.67 I6/4 b4.67 V7
+
+Form: Variation 1
+Time Signature: 8/8
+
+m20 I6/4 b2 V7 b3 I ||
+
+Time Signature: 4/8
+
+m20 b4 V b4.67 viio6/V b4.83 V
+
+Time Signature: 12/8
+
+m21 b1.67 I b4 V7[b9]/ii
+Note: [Q] viio6/V/V okay?
+m22 b1.67 ii b2.33 V/V b2.67 viio6/V/V b2.83 V6/5/V b3.67 V b4.67 viio6/V b4.83 V7
+m23 V6/vi f: V6 b1.33 i b3 ii/o7 Eb: vii/o7 b4 I
+m24 I6/4 b3 V6 b4 V7
+m25 b1.67 V2 b2.67 I6 b3 I b3.67 viio/V b3.83 viio6 b4.67 vi f: i
+m26 b2 viio7/iv b2.33 iv b4 V9[b9]
+m27 b1.67 i b2.67 i6 b3.67 viio7/iv Eb: viio7/V b4.67 V7 b4.83 viio7
+m28 b3 V7/IV Ab: V7
+Note: [Q]Check out the chord on b1? If it’s even a chord. My sense is that it’s an altered common-tone diminished chord, but ultimately I chose not to label it. Also, I am very much hearing the I chord here as a I6/4 because of that prominent cello Eb. But chose not to label it as such since I don’t see it resolve in any way. Then again, the progression doesn’t feel like V7-I to me either. Thoughts?
+m29 V7 b4.67 I
+m30 b3 viio7 b3.67 V7/IV
+m30var1 b3 bII6 b3.67 V7/IV
+m31 viio7/IV b1.33 IV b1.83 V4/3/IV b2.33 viio4/3/V b2.87 viio7 b3.33 I b3.83 I6 b4.33 ii6 f: iv6 b4.83 Ger
+m32 b1.33 i6/4 b1.67 VI Ab: IV b2 I6/4 b2.33 V2 b2.83 V4/3 b3.33 I || b3.83 vo6/4 b4.33 V4/3 b4.67 V6/5
+Note: Interesting treatment of viio43, where what seems at first like a passing tone in the violin II part is reinterpreted as the diatonic third above the bass in a fauxbourdon passage.
+m33 b1.33 V7 b1.83 viio4/3 b2.67 I6 b2.83 viio6 b3 vi6 b3.67 V6/5 b4 V2 b4.67 vi6/4 b4.83 viio2
+m34 V7[#5] b1.67 I6 b2 I6/4 b3 V4/3 b3.67 I b4 V2/IV b4.83 V4/3/IV
+m35 V4/3/IV b1.33 IV b1.83 I6 b2.33 ii6/5[#3] b2.83 viio2 b3.33 I6/4 b4.33 ii6/5 b4.83 f: Ger6/5
+m36 b1.33 I6/4 b1.67 VI Ab: IV b2.33 V7 b3 I6/4 b4 vo7 b4.33 V7
+m37 viio/IV b2 IV b2.67 iv b3 I6/4 b4 V7 b4.83 vo4/3/V
+
+Form: Variation 2
+Time Signature: 7/8
+
+m38 V4/3/V b4 V6/5 b7 I ||
+
+Time Signature: 3/8
+
+m38 V b3 V2
+
+Time Signature: 4/4
+
+m39 Ab: I
+m40 V4/3 b4.5 V+6/4
+m41 I6 b2 IV b3 IV6 b3.5 V6/5 b4 I b4.75 V4/3
+m42 I6 b1.5 I6/4 b3 V7
+m43 I b4.5 i6
+m44 V4/3 b2 V2 b2.5 V4/3 b3.5 I6 b4 V2 b4.5 V6/5
+m45 I b1.5 V6/5/vi b2 vi Eb: ii b2.5 V6/V b3 I6/4 b4.5 V7
+m46 viio2 b1.5 V7 b2 viio2 b2.5 V7 b3 V7/IV Ab: V7
+m47 V7
+m48 I b3 V7/IV
+m49 iv b4 V6/5/V
+m50 I6/4 b2 V7 b3 I6/4 b4 V7
+m51 V2/IV b2 IV6 b3 I6/4 b4 V7
+m52 I6/4 b2 V7 b3 I6/4 b4 V2 b4.5 I6
+m53 V6/5 b2.5 V2 b4 I6 b4.5 V4/3
+m54 I b3 V2/IV
+m55 iv6 b3 iv b3.5 IV b4 viio2 b4.5 V6/5/V
+m56 I6/4 b2 V7 b3 I6/4 b3.5 vo/7 b4 V7
+m57 I6/4 b1.5 V2/IV b2 IV6 b2.5 iv6 b3 I6/4 b4 V2
+
+Form: Variation 3
+
+m58 I6 b2 V2 b3 I6 b4 iv
+
+Time Signature: 2/2
+Note: How the heck does b1.5 sound so uncontroversially major to me?
+m59 E: I b2.5 viio4/3/V
+m60 V6 b2 V2
+m61 I6 b1.5 IV b1.875 ii6/5 b2 V b2.5 Fr4/3
+m62 V b1.5 viio7/V b2 V b2.5 V6 b2.75 V6/5
+m63 I6/4 b1.5 I b2 viio4/3/V
+m64 V6 b2 V4/3
+m65 I b2 V6 b2.5 V4/3/V
+m66 Ger6/5 b2.25 V6
+m67 b2 V4/3
+m68 viio7/ii b2 viio6/5/ii
+m69 viio6 b1.5 V7 b2 viio2
+m70 bVI b1.75 V6 b2.25 I
+m71 V4/3 b2 V6/5 b2.5 I b2.75 viio6
+m72 I6 b1.75 V4/3 b2 viio/ii b2.5 viio6/ii
+m73 viio6 b1.5 viio2
+m74 bVI b1.75 V6 b2.25 I6/4 b2.5 bVI b2.75 V6
+m75 V2/IV b1.5 IV6 b1.75 iv6 b2 I6/4 b2.5 V6/5/V
+
+Form: Variation 4
+
+m76 ii/o6/5 b1.25 I6 b1.5 V2
+
+Time Signature: 12/8
+m76 I ||
+m77 NC b1.33 Ab: V b2 I b3 I6/4
+m78 V7
+m79 viio6/5/ii b3 ii6
+m80 I6/4 b2 viio4/3/V b3 V b4.67 V7
+m81 I
+m82 V7
+Note: Found this measure rather tricky.
+m83 I6/4 b1.33 V6/vi b1.67 vi Eb: ii b2.67 ii6 b3 V6/ii b3.33 V b4 V7
+m84 I b3.67 Ab: IV6 b4.33 V6 b4.67 I
+m85 V7
+m86 V7/ii
+m87 V4/3/V b4.67 V6/5/V
+m88 I6/4 b2 V7 b3 I6/4 b3.33 V6 Eb: I6 b3.67 ii6/5 b4 viio6/5 b4.33 V4/3/IV Ab: V4/3 b4.67 I6/4
+Note: Three-voice fauxbourdon texture enriching the melody in m89-91 results in many NCTs.
+m89 viio6/5/V b1.33 V7
+m90 b1.67 viio6/5/V/V
+m91 V6/5/V b4.83 V4/3
+Note: vo4/3 on b3.83? Probably not, right?
+m92 b1.33 I b2 V2 b2.83 V6/5 b3 I b4 V4/3 b4.83 V7
+Note: Should like to discuss inversions here, too.
+m93 V4/3/IV b2 IV b2.33 iv b3 I6 b4 V7
+m94 I b2 V4/3 b3 I ||
+
+Form: Coda
+
+m95 Db: I6 b2 V2 b3 I6 b4 V
+m96 I c#: i b2 I6 b3 vi b4 IV6
+m97 V6 b3 V2
+m98 I6 b3 ii6
+Note: bass of I6/4 both implied by the ascending 3-4-5 cello bass, as well as retroactively heard from b2.
+m99 I6/4 b2 V b3 I b3.67 viio6/V b4 V6
+Note: Very cool descending sequence. Essentially descending fauxbourdon, but there’s cool geometry here: at the dyadic level, it would be better called a descending fifth sequence. The canon between cello and viola/violin2 is also to be noted.
+m100 c#: i b4 v6
+m101 iv6 b2 III6 b3 iio6 b4 i6
+m102 ii/o7 b2 V6/4 b3 i b4 v6
+m103 iv6 b2 III6 b3 iio6 b4 i6
+Note: Cello G# heard as carrying over to the end of the bar
+m104 ii/o6/5 b2 V b3 I6/4 b4.67 V7
+m105 i
+Note: scales in contrary motion, in the key of A major
+m106 VI Ab: N6
+m107 I6/4 b2 viio/V b2.67 V7 b3 I6/4 b4 V/V b4.33 V7
+m108 V+6 b1.33 I6/4 b2 V6/V b2.33 V7
+m109 I b4.67 V6/ii
+m110 V4/3
+m111 I6 b2 IV b3 V7 b4 I6/4
+m112 b3 V7
+Note: Beethoven crashing thirds
+m113 V7
+m114 I b4.83 V2/IV
+m115 IV b4.83 Fre
+Note: Because the low cello dominant Eb is not resolved on b3, to my ear it still sounds active, which is why I labeled the b3 tonic chord as I6/4.
+m116 I6/4 b2 V7 b3 I6/4 b4 V7
+m117 I6 b1.33 V7/ii b2 ii b2.33 V7 b3 I6/4 b4 V7 ||
+m118 b3 V
+m119 V7/IV
+m120 IV6/4
+m121 viio7 b1.83 I b2 ii6/5 b3 I6/4 b4 V7
+m122 iv6
+Note: bVI spelled as #V here
+m123 bVI b2 V6/5/bVI b3 bVI
+m124 I6/4 b2 V9 b3 I6/4 b4 V9
+Note: Here, how high should my “resolution” be?
+m125 b1.5 I6/4 b2 V6/IV b2.16 IV6 b2.33 viio6/ii b2.5 ii6 b2.67 IV6 b2.83 V6/5 b3.5 I b3.67 IV6 b3.83 V6/5 b4.5 I b4.67 vi7 b4.83 V6/5
+m126 V4/3 b3.5 I ||
+
+

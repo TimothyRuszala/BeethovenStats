@@ -1,0 +1,20 @@
+Time Signature: 12/8
+m1 Ab: V6/5 b1.67 I b3 I6 b4 V7[b9]/ii
+m2 V6/ii b1.33 V7/ii b1.67 ii b2.33 V/V b2.67 viio6/V/V b2.83 V6/5/V b3.67 V b4.67 V7
+m3 V6/vi f: V6 b1.33 i b2.67 ii/o7 Eb: vii/o7 b4 I b4.67 I6
+m4 I6/4 b3 V6 b4 V7
+m5 b1.67 V2 b2.67 I6 b3 I b3.67 viio/V b3.83 viio6 b4.67 vi f: i
+m6 b2 viio7/iv b2.33 iiv b4 V9[b9]
+m7 b1.67 i b2.67 i6 b3.67 viio7/iv Ab: viio7/V/V b4.67 V7/V b4.83 viio7/V
+m8 b3 V7
+Note: Beethoven Crashing Thirds
+m9 V7
+m10 b1.67 I6 b3 viio7 b3.67 V7/IV
+m11 viio7/IV b1.33 IV b1.83 V4/3/IV b2.33 viio4/3/V b2.87 viio7 b3.33 I b3.83 I6 b4.33 ii6 f: iv6 b4.83 Ger
+m12 b1.33 i6/4 b1.67 VI Ab: IV b2 I6/4 b2.33 V2 b2.83 V4/3 b3.33 I || b3.83 vo6/4 b4.33 V4/3 b4.67 V6/5
+Note: Interesting treatment of viio43, where what seems at first like a passing tone in the violin II part is reinterpreted as the diatonic third above the bass in a fauxbourdon passage.
+m13 b1.33 V7 b1.83 viio4/3 b2.67 I6 b2.83 viio6 b3 vi6 b3.67 V6/5 b4 V2 b4.67 vi6/4 b4.83 viio2
+m14 V2 b1.67 I6 b2 I6/4 b3 V4/3 b3.67 I b4 V2/IV b4.83 V4/3/IV
+m15 V4/3/IV b1.33 IV b1.83 I6 b2.33 ii6/5[#3] b2.83 viio2 b3.33 I6/4 b4.33 ii6/5 b4.83 f: Ger6/5
+m16 b1.33 I6/4 b1.67 VI Ab: IV b2.33 V7 b3 I6/4 b4 vo7 b4.33 V7
+m17 viio/IV b2 IV b2.67 iv b3 I6/4 b4 V7 b4.83 vo4/3/V

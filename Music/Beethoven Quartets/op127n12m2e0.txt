@@ -1,0 +1,33 @@
+Composer: Beethoven
+Piece: Op. 127 no. 12
+Analyst: Rohrmeier et al.
+Proofreader: Timothy Ruszala and Dmitri Tymoczko
+Movement: 2
+
+Time Signature: 2/4
+m1 b3.67 Ab: V7
+Time Signature: 12/8
+m2 V7
+Note: bass on b1 understood as a ritardation
+m4 I
+m5 V6/5 b3 V4/3
+m6 I6 b4 I6/4
+Note: Cello understood as conceptual bass here
+m7 b3 V b4.67 V6/5
+m8 I
+m9 V6/5
+m10 I b2 viio6/vi b2.67 vi6 Eb: ii6 b3 V7 b4 I6/4 b4.67 V7
+m10var1 I b2 viio6/vi b2.67 vi6 Eb: ii6 b3 V7
+m11 I || Ab: b3.67 V4/3
+m12 V6/5 b3 V4/3
+m13 I b3 I6
+Note: Beethoven Crashing Thirds (Discuss which inversion to label.)
+m14 V4/3 b4 V6/5/V b4.67 V2
+Note: IV9 may be a little strange, but I’m hearing a very rich predominant harmony on b1.67. Those added notes could be explained away as NHTs, but I hear them as chord members in themselves.
+m15 I6 b1.67 IV9 b2 V7 b3 I || b3.67 V
+m16 V7
+m17 I6/4 b4 V4/3/IV
+Note: is that b1.67 V4/3/IV too much to notate? Put it down primarily because of the Gb, which of course could be a chromatic NT, but to me is clearly really acting as a chordal seventh. Maybe inconsistent, however, since similar instances of I-V7-I made from passing tones I chose earlier not to notate.
+m18 IV b1.67 V4/3/IV b2 IV b2.67 I6 b3 ii7 b3.67 viio2 b4 I6/4 b4.67 V6/5/V
+m19 I6/4 b2 V7 b3 I6/4 b4 V7 b4.67 V2
+m20 V6/5/IV b1.67 V4/3/IV b2 IV b2.67 iv6 b3 vii/o/V b3.67 I6/4 b4.67 V7

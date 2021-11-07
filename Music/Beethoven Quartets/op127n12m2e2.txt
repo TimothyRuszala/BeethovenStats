@@ -1,0 +1,44 @@
+Time Signature: 4/4
+m39 Ab: I
+m40 V4/3 b4.5 V+6/4
+m41 I6 b2 IV b3 IV6 b3.5 V6/5 b4 I b4.75 V4/3
+m42 I6 b1.5 I6/4 b3 V7
+m43 I b4.5 i6
+m44 V4/3 b2 V2 b2.5 V4/3 b3.5 I6 b4 V2 b4.5 V6/5
+m45 I b1.5 V6/5/vi b2 vi Eb: ii b2.5 V6/V b3 I6/4 b4.5 V7
+m46 viio2 b1.5 V7 b2 viio2 b2.5 V7 b3 V7/IV Ab: V7
+m47 V7
+m48 I b3 V7/IV
+m49 iv b4 V6/5/V
+m50 I6/4 b2 V7 b3 I6/4 b4 V7
+m51 V2/IV b2 IV6 b3 I6/4 b4 V7
+m52 I6/4 b2 V7 b3 I6/4 b4 V2 b4.5 I6
+Note: Look here for inversion problems to discuss with Dmitri
+m53 V6/5 b2.5 V2 b4 I6 b4.5 V4/3
+m54 I b3 V2/IV
+Note: Check this again
+m55 iv6 b3 iv b3.5 IV b4 viio2 b4.5 V6/5/V
+m56 I6/4 b2 V7 b3 I6/4 b3.5 vo/7 b4 V7
+m57 I6/4 b1.5 V2/IV b2 IV6 b2.5 iv6 b3 I6/4 b4 V2
+m58 I6 b2 V2 b3 I6 b4 iv
+
+Time Signature: 2/2
+Note: How the heck does b1.5 sound so uncontroversially major to me?
+m59 E: I b2.5 viio4/3/V
+m60 V6 b2 V2
+m61 I6 b1.5 IV b1.875 ii6/5 b2 V b2.5 Fr4/3
+m62 V b1.5 viio7/V b2 V b2.5 V6 b2.75 V6/5
+m63 I6/4 b1.5 I b2 viio4/3/V
+m64 V6 b2 V4/3
+m65 I b2 V6 b2.5 V4/3/V
+m66 Ger6/5 b2.25 V6
+m67 b2 V4/3
+m68 viio7/ii b2 viio6/5/ii
+m69 viio6 b1.5 V7 b2 viio2
+m70 bVI b1.75 V6 b2.25 I
+m71 V4/3 b2 V6/5 b2.5 I b2.75 viio6
+m72 I6 b1.75 V4/3 b2 viio/ii b2.5 viio6/ii
+m73 viio6 b1.5 viio2
+m74 bVI b1.75 V6 b2.25 I6/4 b2.5 bVI b2.75 V6
+m75 V2/IV b1.5 IV6 b1.75 iv6 b2 I6/4 b2.5 V6/5/V
+m76 ii/o6/5 b1.25 I6 b1.5 V2

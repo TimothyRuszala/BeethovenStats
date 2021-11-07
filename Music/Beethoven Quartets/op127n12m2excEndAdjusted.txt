@@ -1,0 +1,73 @@
+as;ldkjfa;slkdjfas; NOTE: Fix the measure numbers.
+
+Composer: Beethoven
+Piece: Op. 127 no. 12
+Analyst: Rohrmeier et al.
+Proofreader: Timothy Ruszala and Dmitri Tymoczko
+Movement: 2
+
+Time Signature: 12/8
+m81 NC b1.33 Ab: V b2 I b3 I6/4
+m82 V7
+m83 viio6/5/ii b3 ii6
+m84 I6/4 b2 viio4/3/V b3 V b4.67 V7
+m85 I
+m86 V7
+Note: Is this an example of Beethoven’s crashing thirds? Could we take a look at this?
+m87 I6/4 b1.33 V6/vi b1.67 vi Eb: ii b2.67 ii6 b3 V6/ii b3.33 V b4 V7
+m88 V2 b3 I b3.67 Ab: IV6 b4.33 V6 b4.67 I
+m89 V7
+m90 V7/ii
+m91 V4/3/V b4.67 V6/5/V
+m92 I6/4 b2 V7 b3 I6/4 b3.33 V6 Eb: I6 b3.67 ii6/5 b4 viio6/5 b4.33 V4/3/IV Ab: V4/3 b4.67 I6/4
+Note: Three-voice fauxbourdon texture enriching the melody in m89-91 results in many NCTs.
+m93 viio6/5/V b1.33 V7
+m94 b1.67 viio6/5/V/V
+m95 V6/5/V b4.83 V4/3
+Note: vo4/3 on b3.83? Probably not, right?
+m96 b1.33 I b2 V2 b2.83 V6/4 b3 I b4 V4/3 b4.83 V7
+Note: Should like to discuss inversions here, too.
+m97 V4/3/IV b2 IV b2.33 iv b3 I6 b4 V7
+m98 I b2 V4/3 b3 I ||
+m99 Db: I6 b2 V2 b3 I6 b4 V
+m100 I c#: i b2 I6 b3 vi b4 IV6
+m101 V6 b3 V2
+m102 I6 b3 ii6
+Note: bass of I6/4 both implied by the ascending 3-4-5 cello bass, as well as retroactively heard from b2.
+m103 I6/4 b2 V b3 I b3.67 viio6/V b4 V6
+Note: Very cool descending sequence. Essentially descending fauxbourdon, but there’s cool geometry here: at the dyadic level, it would be better called a descending fifth sequence. The canon between cello and viola/violin2 is also to be noted.
+m104 c#: i b4 v6
+m105 iv6 b2 III6 b3 iio6 b4 i6
+m106 ii/o7 b2 V6/4 b3 i b4 v6
+m107 iv6 b2 III6 b3 iio6 b4 i6
+Note: Cello G# heard as carrying over to the end of the bar
+m108 ii/o6/5 b2 V b3 I6/4 b4.67 V7
+m109 i
+Note: scales in contrary motion, in the key of A major
+m110 VI Ab: N6
+m111 I6/4 b2 viio/V b2.67 V7 b3 I6/4 b4 V/V b4.33 V7
+m112 V+6 b1.33 I6/4 b2 V6/V b2.33 V7
+m113 I b4.67 V6/ii
+m114 V4/3
+m115 I6 b2 IV b3 V7 b4 I6/4
+m116 b3 V7
+Note: Beethoven crashing thirds
+m117 V7
+m118 I b4.83 V2/IV
+m119 IV b4.83 Fre
+Note: Because the low cello dominant Eb is not resolved on b3, to my ear it still sounds active, which is why I labeled the b3 tonic chord as I6/4.
+m120 I6/4 b2 V7 b3 I6/4 b4 V7
+m121 I6 b1.33 V7/ii b2 ii b2.33 V7 b3 I6/4 b4 V7 ||
+m122 b3 V
+m123 V7/IV
+m124 IV6/4
+m125 viio7 b1.83 I b2 ii6/5 b3 I6/4 b4 V7
+m126 iv6
+Note: bVI spelled as #V here
+m127 bVI b2 V6/5/bVI b3 bVI
+m128 I6/4 b2 V9 b3 I6/4 b4 V9
+Note: Here, how high should my “resolution” be?
+m129 b1.5 I6/4 b2 V6/IV b2.16 IV6 b2.33 viio6/ii b2.5 ii6 b2.67 IV6 b2.83 V6/5 b3.5 I b3.67 IV6 b3.83 V6/5 b4.5 I b4.67 vi7 b4.83 V6/5
+m130 V4/3 b3.5 I ||
+
+

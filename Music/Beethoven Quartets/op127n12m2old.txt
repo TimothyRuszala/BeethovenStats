@@ -1,0 +1,176 @@
+Composer: Beethoven
+Piece: Op. 127 no. 12
+Analyst: Rohrmeier et al.
+Proofreader: Timothy Ruszala and Dmitri Tymoczko
+Movement: 2
+
+Time Signature: 2/4
+m1 b3.67 Ab: V7
+Time Signature: 12/8
+m2 V7
+Note: bass on b1 understood as a ritardation
+m4 I
+m5 V6/5 b3 V4/3
+m6 I6 b4 I6/4
+Note: Cello understood as conceptual bass here
+m7 b3 V b4.67 V6/5
+m8 I
+m9 V6/5
+m10 I b2 viio6/vi b2.67 vi6 Eb: ii6 b3 V7 b4 I6/4 b4.67 V7
+m10var1 I b2 viio6/vi b2.67 vi6 Eb: ii6 b3 V7
+m11 I || Ab: b3.67 V4/3
+m12 V6/5 b3 V4/3
+m13 I b3 I6
+Note: Beethoven Crashing Thirds (Discuss which inversion to label.)
+m14 V4/3 b4 V6/5/V b4.67 V2
+Note: IV9 may be a little strange, but I’m hearing a very rich predominant harmony on b1.67. Those added notes could be explained away as NHTs, but I hear them as chord members in themselves.
+m15 I6 b1.67 IV9 b2 V7 b3 I || b3.67 V
+m16 V7
+m17 I6/4 b4 V4/3/IV
+Note: is that b1.67 V4/3/IV too much to notate? Put it down primarily because of the Gb, which of course could be a chromatic NT, but to me is clearly really acting as a chordal seventh. Maybe inconsistent, however, since similar instances of I-V7-I made from passing tones I chose earlier not to notate.
+m18 IV b1.67 V4/3/IV b2 IV b2.67 I6 b3 ii7 b3.67 viio2 b4 I6/4 b4.67 V6/5/V
+m19 I6/4 b2 V7 b3 I6/4 b4 V7 b4.67 V2
+m20 V6/5/IV b1.67 V4/3/IV b2 IV b2.67 iv6 b3 vii/o/V b3.67 I6/4 b4.67 V7
+Time Signature: 8/8
+m20 I6/4 b2 V7 b3 I ||
+Time Signature: 4/8
+m21 b4 V b4.67 viio6/V b4.83 V
+Time Signature: 12/8
+Note: b3 I6 has a strong flavor of IV due to the NCT motif set up in violin2.
+m22 b1.67 I b3 I6 b4 V7[b9]/ii
+m23 V6/ii b1.33 V7/ii b1.67 ii b2.33 V/V b2.67 viio6/V/V b2.83 V6/5/V b3.67 V b4.67 V7
+m24 V6/vi f: V6 b1.33 i b2.67 ii/o7 Eb: vii/o7 b4 I b4.67 I6
+m25 I6/4 b3 V6 b4 V7
+m26 b1.67 V2 b2.67 I6 b3 I b3.67 viio/V b3.83 viio6 b4.67 vi f: i
+m27 b2 viio7/iv b2.33 iiv b4 V9[b9]
+m28 b1.67 i b2.67 i6 b3.67 viio7/iv Ab: viio7/V/V b4.67 V7/V b4.83 viio7/V
+m29 b3 V7
+Note: Beethoven Crashing Thirds
+m30 V7
+m31 b1.67 I6 b3 viio7 b3.67 V7/IV
+m32 viio7/IV b1.33 IV b1.83 V4/3/IV b2.33 viio4/3/V b2.87 viio7 b3.33 I b3.83 I6 b4.33 ii6 f: iv6 b4.83 Ger
+m33 b1.33 i6/4 b1.67 VI Ab: IV b2 I6/4 b2.33 V2 b2.83 V4/3 b3.33 I || b3.83 vo6/4 b4.33 V4/3 b4.67 V6/5
+Note: Interesting treatment of viio43, where what seems at first like a passing tone in the violin II part is reinterpreted as the diatonic third above the bass in a fauxbourdon passage.
+m34 b1.33 V7 b1.83 viio4/3 b2.67 I6 b2.83 viio6 b3 vi6 b3.67 V6/5 b4 V2 b4.67 vi6/4 b4.83 viio2
+m35 V2 b1.67 I6 b2 I6/4 b3 V4/3 b3.67 I b4 V2/IV b4.83 V4/3/IV
+m36 V4/3/IV b1.33 IV b1.83 I6 b2.33 ii6/5[#3] b2.83 viio2 b3.33 I6/4 b4.33 ii6/5 b4.83 f: Ger6/5
+m37 b1.33 I6/4 b1.67 VI Ab: IV b2.33 V7 b3 I6/4 b4 vo7 b4.33 V7
+m38 viio/IV b2 IV b2.67 iv b3 I6/4 b4 V7 b4.83 vo4/3/V
+
+Time Signature: 7/8
+m39 V4/3/V b4 V6/5 b7 I ||
+
+Time Signature: 3/8
+m40 V b3 V2
+
+Time Signature: 4/4
+m41 I6 b1.5 I
+m42 V4/3 b4.5 V+6/4
+m43 I6 b2 IV b3 IV6 b3.5 V6/5 b4 I b4.75 V4/3
+m44 I6 b1.5 I6/4 b3 V7
+m45 I6/4 b2 I b4.5 i6
+m46 V4/3 b2 V2 b2.5 V4/3 b3.5 I6 b4 V2 b4.5 V6/5
+m47 I b1.5 V6/5/vi b2 vi Eb: ii b2.5 V6/V b3 I6/4 b4.5 V7
+m48 viio2 b1.5 V7 b2 viio2 b2.5 V7 b3 V7/IV Ab: V7
+m49 V7
+m50 I b3 V7/IV
+m51 iv b4 V6/5/V
+m52 I6/4 b2 V7 b3 I6/4 b4 V7
+m53 V2/IV b2 IV6 b3 I6/4 b4 V7
+m54 I6/4 b2 V7 b3 I6/4 b4 V2 b4.5 I6
+Note: Look here for inversion problems to discuss with Dmitri
+m55 V6/5 b2.5 V2 b4 I6 b4.5 V4/3
+m56 I b3 V2/IV
+Note: Check this again
+m57 iv6 b3 iv b3.5 IV b4 viio2 b4.5 V6/5/V
+m58 I6/4 b2 V7 b3 I6/4 b4 V7
+m59 I6/4 b1.5 V2/IV b2 IV6 b2.5 iv6 b3 I6/4 b4 V2
+m60 I6 b2 V2 b3 I6 b4 iv
+
+Time Signature: 2/2
+Note: How the heck does b1.5 sound so uncontroversially major to me?
+m61 E: I b2.5 viio4/3/V
+m62 V6 b2 V2
+m63 I6 b1.5 IV b1.875 ii6/5 b2 V b2.5 Fr4/3
+m64 V b1.5 viio7/V b2 V b2.5 V6 b2.75 V6/5
+m65 I6/4 b1.5 I b2 viio4/3/V
+m66 V6 b2 V4/3
+m67 I b2 V6 b2.5 V4/3/V
+m68 Ger6/5 b2.25 V6
+m69 b2 V4/3
+m70 viio7/ii b2 viio6/5/ii
+m71 viio6 b1.5 V7 b2 viio2
+m72 bVI b1.75 V6 b2.25 I
+m73 V4/3 b2 V6/5 b2.5 I b2.75 viio6
+m74 I6 b1.75 V4/3 b2 viio/ii b2.5 viio6/ii
+m75 viio6 b1.5 viio2
+m76 bVI b1.75 V6 b2.25 I6/4 b2.5 bVI b2.75 V6
+m77 V2/IV b1.5 IV6 b1.75 iv6 b2 I6/4 b2.5 V6/5/V
+m78 ii/o6/5 b1.25 I6 b1.5 V2
+
+Time Signature: 12/8
+m79 I ||
+m80 NC b1.33 Ab: V b2 I b3 I6/4
+m81 V7
+m82 viio6/5/ii b3 ii6
+m83 I6/4 b2 viio4/3/V b3 V b4.67 V7
+m84 I
+m85 V7
+Note: Is this an example of Beethoven’s crashing thirds? Could we take a look at this?
+m86 I6/4 b1.33 V6/vi b1.67 vi Eb: ii b2.67 ii6 b3 V6/ii b3.33 V b4 V7
+m87 V2 b3 I b3.67 Ab: IV6 b4.33 V6 b4.67 I
+m88 V7
+m89 V7/ii
+m90 V4/3/V b4.67 V6/5/V
+m91 I6/4 b2 V7 b3 I6/4 b3.33 V6 Eb: I6 b3.67 ii6/5 b4 viio6/5 b4.33 V4/3/IV Ab: V4/3 b4.67 I6/4
+Note: Three-voice fauxbourdon texture enriching the melody in m89-91 results in many NCTs.
+m92 viio6/5/V b1.33 V7
+m93 b1.67 viio6/5/V/V
+m94 V6/5/V b4.83 V4/3
+Note: vo4/3 on b3.83? Probably not, right?
+m95 b1.33 I b2 V2 b2.83 V6/4 b3 I b4 V4/3 b4.83 V7
+Note: Should like to discuss inversions here, too.
+m96 V4/3/IV b2 IV b2.33 iv b3 I6 b4 V7
+m97 I b2 V4/3 b3 I ||
+m98 Db: I6 b2 V2 b3 I6 b4 V
+m99 I c#: i b2 I6 b3 vi b4 IV6
+m100 V6 b3 V2
+m101 I6 b3 ii6
+Note: bass of I6/4 both implied by the ascending 3-4-5 cello bass, as well as retroactively heard from b2.
+m102 I6/4 b2 V b3 I b3.67 viio6/V b4 V6
+Note: Very cool descending sequence. Essentially descending fauxbourdon, but there’s cool geometry here: at the dyadic level, it would be better called a descending fifth sequence. The canon between cello and viola/violin2 is also to be noted.
+m103 c#: i b4 v6
+m104 iv6 b2 III6 b3 iio6 b4 i6
+m105 ii/o7 b2 V6/4 b3 i b4 v6
+m106 iv6 b2 III6 b3 iio6 b4 i6
+Note: Cello G# heard as carrying over to the end of the bar
+m107 ii/o6/5 b2 V b3 I6/4 b4.67 V7
+m108 i
+Note: scales in contrary motion, in the key of A major
+m109 VI Ab: N6
+m110 I6/4 b2 viio/V b2.67 V7 b3 I6/4 b4 V/V b4.33 V7
+m111 V+6 b1.33 I6/4 b2 V6/V b2.33 V7
+m112 I b4.67 V6/ii
+m113 V4/3
+m114 I6 b2 IV b3 V7 b4 I6/4
+m115 b3 V7
+Note: Beethoven crashing thirds
+m116 V7
+m117 I b4.83 V2/IV
+m118 IV b4.83 Fre
+Note: Because the low cello dominant Eb is not resolved on b3, to my ear it still sounds active, which is why I labeled the b3 tonic chord as I6/4.
+m119 I6/4 b2 V7 b3 I6/4 b4 V7
+m120 I6 b1.33 V7/ii b2 ii b2.33 V7 b3 I6/4 b4 V7 ||
+m121 b3 V
+m122 V7/IV
+m123 IV6/4
+m124 viio7 b1.83 I b2 ii6/5 b3 I6/4 b4 V7
+m125 iv6
+Note: bVI spelled as #V here
+m126 bVI b2 V6/5/bVI b3 bVI
+m127 I6/4 b2 V9 b3 I6/4 b4 V9
+Note: Here, how high should my “resolution” be?
+m128 b1.5 I6/4 b2 V6/IV b2.16 IV6 b2.33 viio6/ii b2.5 ii6 b2.67 IV6 b2.83 V6/5 b3.5 I b3.67 IV6 b3.83 V6/5 b4.5 I b4.67 vi7 b4.83 V6/5
+m129 V4/3 b3.5 I ||
+
+

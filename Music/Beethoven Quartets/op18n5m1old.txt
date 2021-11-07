@@ -1,0 +1,243 @@
+Composer: Beethoven
+Piece: Op. 18 no. 5
+Analyst: Rohrmeier et al.
+Movement: 1
+Time Signature: 6/8
+
+Form: Exposition
+m1 A: I
+m2 I
+m5 IV
+m6 V7
+m7 b2 I
+m8 b2 V7/IV
+m9 IV
+m10 V7
+m11 I ||
+m12 V7
+m13 I6
+m14 IV b2 V
+m15 I
+m16 V7
+m17 I6 b2 V2/IV
+m18 IV6 b2 iv6
+m18var1 IV6 b2 It6/5
+m19 V b2 V2
+m20 I6 b1.67 V6 b2 I b2.33 vi b2.67 V7/V
+m21 V b2 V7
+m22 I6 b1.67 V6 b2 I b2.33 vi b2.67 V7/V
+m23 V
+m24 V ||
+
+Form: Second Theme Group
+m25 e: i6 b1.67 V6 b2 i b2.67 V
+m25var1 e: i6 b2 i
+m26 VI b2 V
+m27 i6 b1.67 viio6 b2 i b2.67 viio
+m28 i b1.67 viio7/V b2 V ||
+m29 i b1.67 V4/3 b2 i6 b2.67 V6/iv
+m30 iv b1.67 V4/3/iv b2 iv6 b2.67 ii/o7
+m31 G: I b1.67 ii6 b2 I6/4 b2.67 V7
+m32 I || b2.67 e: V
+m33 i6 b1.67 V6 b2 i b2.67 V
+m33var1 i6 b2 i
+m34 VI b2 V
+m35 i6 b1.67 viio6 b2 i b2.67 viio
+m36 i b1.67 viio7/V b2 V ||
+m37 E: I b1.67 V4/3 b2 I6
+m38 IV b1.67 V4/3/IV b2 IV6
+m40 IV b2.67 viio6/4/ii
+m41 ii6 b1.67 V6/ii b2 ii b2.67 ii/o2
+m42 V6/5 b1.67 I b2 ii6 b2.67 V7
+m43 I ||
+Note: Ascending second sequence
+m44 V b2 V7/ii
+Note: how to do V9 inversions?
+m44var1 V b2 V9[b9]/ii
+m45 ii6 b2 ii
+m46 vi b2 V7/iii
+m46var1 vi b2 V9[b9]/iii
+m47 iii6 b2 iii
+m48 V7
+m49 I b2 IV
+m50 I6/4 b2 V7
+m51 I ||
+Note: ascending fifth sequence
+Note: triple check this
+m52 V b2 v6
+m53 ii6 b2 ii
+m54 vi b2 vi6
+m55 iii6 b2 iii
+m56 V7
+m59 I b2 IV6
+m60 I6 b2 viio/V
+m61 I6/4 b2.33 V7
+m62 I ||
+m63 I6/4 b2.33 V7
+m64 I
+m65 I6/4 b2.33 V7
+m66 I ||
+m67 I
+m68 V9/IV b2.33 IV6 b2.67 V6/5/IV
+m69 IV b1.33 V4/3/ii b1.67 ii b2 I6/4 b2.33 V7
+m70 I ||
+m71 I
+m72 viio7/ii b2.33 V6/5/ii
+m73 ii b1.67 ii6 b2 I6/4 b2.33 V7
+m74 I || b2 V7
+m75 I b2 V7
+m76 I b2 V7
+m77 I b2 V7
+m78 I
+Note: I need to fix measure numbers here
+m79 I ||
+m80 I ||
+m81 f#: V
+m83 viio7 b2.33 i b2.67 viio6
+m84 i6
+m85 viio4/3 b2.33 i6 b2.67 viio6
+m86 i
+m87 D: viio4/3 b2.33 I6 b2.67 viio6
+m88 I
+m89 V2 b2.33 I6 b2.67 V4/3
+m90 I b2 IV
+m91 I6/4 b2 V7
+m92 I ||
+m93 V7/IV
+m94 IV6/4
+m95 V7
+m96 b2 I
+m96var1 I
+m97 V7/IV
+m98 IV6/4
+m99 V7
+m100 I
+m101 V2 b2 V7
+m102 I
+m103 IV b2 V
+m104 I ||
+m105 V2 b2 V7
+m106 I
+m107 V2 b2 V7
+m108 d: i ||
+Note: Bare ascending thirds in m109-111 make assigning roman numerals slightly tricky.
+m109 iv b2 V
+m110 vi b2 V6
+m111 i b2 V4/3
+m111var1 i b2 viio6
+m112 i
+m113 VI b2 i6/4
+m114 viio7/V
+m115 b2 V7/v
+m116 a: i
+m117 VI b2 i6/4
+m118 viio7/V
+m120 V b2 V2
+m121 i6 b2 V6/4
+m122 i6
+m123 V4/3 b2 i
+m124 V b2 V2
+m125 i6 b2 V6/4
+m126 i6
+m127 V4/3 b2 i
+m128 V ||
+m129 b2 A: V4/3/ii b2.67 ii
+m130 V6/5/ii
+m131 ii6 b2 ii
+m132 V6/5
+m133 I
+m134 IV
+m135 I6/4
+m136 V7
+m137 I ||
+m138 I
+m141 IV
+m142 V7
+m143 b2 I
+m143var1 I
+m144 b2 V7/IV
+m145 IV
+m146 V7
+m147 I
+m148 V7
+m149 I6
+m150 IV b2 V
+m151 I ||
+Note: very crazy chromatic section here, where linear motion certainly prevails over functional harmony.
+m152 IV6 b2 NC
+m155 V6/5/bIII b2 bIII
+m156 bIII
+m156var1 NC
+m157 V7/IV b2 iv
+m158 viio7/V b2 i6/4
+m159 bVI b2 viio7/V
+m159var1 Ger6/5
+m160 V b2 V2
+m161 I6 b1.67 V6 b2 I b2.33 vi b2.67 V7/V
+m162 V b2 V7
+m163 I6 b1.67 V6 b2 I b2.33 vi b2.67 V7/V
+m164 V
+m165 V || b2.67 a: V
+m166 i6 b1.67 V6 b2 i b2.67 V
+m166var1 i6 b2 i
+m167 VI b2 V
+m168 i6 b1.67 V6/4 b2 i b2.67 V6/5
+m169 i b1.67 viio7/V b2 V ||
+m170 i b1.67 V4/3 b2 i6 b2.67 V6/5/iv
+m171 iv b1.67 V4/3/iv b2 iv6 b2.67 C: vii/o7
+m172 I b1.67 ii6 b2 V7
+m173 I b2.67 a: V
+m174 i6 b1.67 V6 b2 i b2.67 V
+m174var1 i6 b2 i
+m175 VI b2 V || b2.67 V2
+m176 i6 b1.67 viio6 b2 i b2.67 viio
+m177 i b1.67 viio7/V b2 V ||
+m178 A: I b1.67 V4/3 b2 I6 b2.67 V6/5/IV
+m179 IV b1.67 V4/3/IV b2 IV6
+m181 IV6 b2 IV b2.67 viio6/ii
+m182 ii6 b1.67 V6/ii b2 ii b2.67 ii/o2
+m183 V6/5 b1.67 I b2 ii6 b2.67 V7
+m184 I ||
+m185 V b2 V7/ii
+m185var V b2 V9[b9]/ii
+m186 ii6 b2 ii
+m187 vi b2.33 V7/iii
+m187var1 vi b2.33 V9[b9]/iii
+m188 iii6 b2 iii
+m189 V7
+m190 I b2 IV
+m191 I6/4 b2 V7
+m192 I ||
+m193 V b2 v6
+m194 ii6 b2 ii
+m195 vi b2 vi6
+m196 iii6 b2 iii
+m197 V7
+m200 I b2 IV6
+m201 I6 b2 viio/V
+m202 I6/4 b2.33 V7
+m203 I ||
+m204 I6/4 b2.33 V7
+m205 I
+m206 I6/4 b2.33 V7
+m207 I ||
+m208 I
+m209 V9/IV b2.67 V6/5/IV
+m210 IV b1.33 viio6/ii b1.67 ii b2 I6/4 b2.33 V7
+m211 I ||
+m212 I
+m213 viio7/ii
+m214 ii b1.67 ii6 b2 I6/4 b2.33 V7
+m215 I || b2 V7
+m216 I b2 V7
+m217 I b2 V7
+m218 I b2 V7
+m219 I
+m220 I ||
+m222 I
+m225 I
+m226 I6 b1.33 IV b1.67 V6/4 b2 I6
+m227 I b2 V7
+m228 I ||
+
+
