@@ -1,0 +1,246 @@
+Composer: Beethoven
+Piece: Op. 18 no. 5
+Analyst: Rohrmeier et al.
+Movement: 1
+Time Signature: 6/8
+
+Form: Exposition
+m1 A: I
+m2 I
+m5 IV
+m6 V7
+m7 b2 I
+m8 b2 V7/IV
+m9 IV
+m10 V7
+m11 I ||
+m12 V7
+m13 I6
+m14 IV b2 V
+m15 I
+m16 V7
+m17 I6 b2 V2/IV
+m18 IV6 b2 iv6
+m18var1 IV6 b2 It6/5
+m19 V b2 V2
+m20 I6 b1.67 V6 b2 I b2.33 vi b2.67 V7/V
+m21 V b2 V7
+m22 I6 b1.67 V6 b2 I b2.33 vi b2.67 V7/V
+m23 V
+m24 V ||
+m25 e: i6 b1.67 V6 b2 i b2.67 V
+m25var1 e: i6 b2 i
+m26 VI b2 V
+m27 i6 b1.67 viio6 b2 i b2.67 viio
+m28 i b1.67 viio7/V b2 V ||
+m29 i b1.67 V4/3 b2 i6 b2.67 V6/iv
+m30 iv b1.67 V4/3/iv b2 iv6 b2.67 ii/o7
+m31 G: I b1.67 ii6 b2 I6/4 b2.67 V7
+m32 I || b2.67 e: V
+m33 i6 b1.67 V6 b2 i b2.67 V
+m33var1 i6 b2 i
+m34 VI b2 V
+m35 i6 b1.67 viio6 b2 i b2.67 viio
+m36 i b1.67 viio7/V b2 V ||
+m37 E: I b1.67 V4/3 b2 I6
+m38 IV b1.67 V4/3/IV b2 IV6
+m40 IV b2.67 viio6/4/ii
+m41 ii6 b1.67 V6/ii b2 ii b2.67 ii/o2
+m42 V6/5 b1.67 I b2 ii6 b2.67 V7
+m43 I ||
+Note: Ascending second sequence
+m44 V b2 V7/ii
+Note: how to do V9 inversions?
+m44var1 V b2 V9[b9]/ii
+m45 ii6 b2 ii
+m46 vi b2 V7/iii
+m46var1 vi b2 V9[b9]/iii
+m47 iii6 b2 iii
+m48 V7
+m49 I b2 IV
+m50 I6/4 b2 V7
+m51 I ||
+Note: ascending fifth sequence
+Note: triple check this
+m52 V b2 v6
+m53 ii6 b2 ii
+m54 vi b2 vi6
+m55 iii6 b2 iii
+m56 V7
+m59 I b2 IV6
+m60 I6 b2 viio/V
+m61 I6/4 b2.33 V7
+m62 I ||
+m63 I6/4 b2.33 V7
+m64 I
+m65 I6/4 b2.33 V7
+m66 I ||
+m67 I
+m68 V9/IV b2.33 IV6 b2.67 V6/5/IV
+m69 IV b1.33 V4/3/ii b1.67 ii b2 I6/4 b2.33 V7
+m70 I ||
+m71 I
+m72 viio7/ii b2.33 V6/5/ii
+m73 ii b1.67 ii6 b2 I6/4 b2.33 V7
+m74 I || b2 V7
+m75 I b2 V7
+m76 I b2 V7
+m77 I b2 V7
+m78 I
+m79a I ||
+m79b I ||
+
+Form: Development
+m80 f#: V
+m82 viio7 b2.33 i b2.67 viio6
+m83 i6
+m84 viio4/3 b2.33 i6 b2.67 viio6
+m85 i
+m86 D: viio4/3 b2.33 I6 b2.67 viio6
+m87 I
+m88 V2 b2.33 I6 b2.67 V4/3
+m89 I b2 IV
+m90 I6/4 b2 V7
+m91 I ||
+m92 V7/IV
+m93 IV6/4
+m94 V7
+m95 b2 I
+m95var1 I
+m96 V7/IV
+m97 IV6/4
+m98 V7
+m99 I
+m100 V2 b2 V7
+m101 I
+m102 IV b2 V
+m103 I ||
+m104 V2 b2 V7
+m105 I
+m106 V2 b2 V7
+m107 d: i ||
+Note: Bare ascending thirds in m109-111 make assigning roman numerals slightly tricky.
+m108 iv b2 V
+m109 vi b2 V6
+m110 i b2 V4/3
+m110var1 i b2 viio6
+m111 i
+m112 VI b2 i6/4
+m113 viio7/V
+m114 b2 V7/v
+m115 a: i
+m116 VI b2 i6/4
+m117 viio7/V
+m119 V b2 V2
+m120 i6 b2 V6/4
+m121 i6
+m122 V4/3 b2 i
+m123 V b2 V2
+m124 i6 b2 V6/4
+m125 i6
+m126 V4/3 b2 i
+m127 V ||
+m128 b2 A: V4/3/ii b2.67 ii
+m129 V6/5/ii
+m130 ii6 b2 ii
+m131 V6/5
+m132 I
+m133 IV
+m134 I6/4
+m135 V7
+m136 I ||
+
+Form: Recapitulation
+m137 I
+m140 IV
+m141 V7
+m142 b2 I
+m142var1 I
+m143 b2 V7/IV
+m144 IV
+m145 V7
+m146 I
+m147 V7
+m148 I6
+m149 IV b2 V
+m150 I ||
+Note: very crazy chromatic section here, where linear motion certainly prevails over functional harmony.
+m151 IV6 b2 NC
+m154 V6/5/bIII b2 bIII
+m155 bIII
+m155var1 NC
+m156 V7/IV b2 iv
+m157 viio7/V b2 i6/4
+m158 bVI b2 viio7/V
+m158var1 Ger6/5
+m159 V b2 V2
+m160 I6 b1.67 V6 b2 I b2.33 vi b2.67 V7/V
+m161 V b2 V7
+m162 I6 b1.67 V6 b2 I b2.33 vi b2.67 V7/V
+m163 V
+m164 V || b2.67 a: V
+m165 i6 b1.67 V6 b2 i b2.67 V
+m165var1 i6 b2 i
+m166 VI b2 V
+m167 i6 b1.67 V6/4 b2 i b2.67 V6/5
+m168 i b1.67 viio7/V b2 V ||
+m169 i b1.67 V4/3 b2 i6 b2.67 V6/5/iv
+m170 iv b1.67 V4/3/iv b2 iv6 b2.67 C: vii/o7
+m171 I b1.67 ii6 b2 V7
+m172 I b2.67 a: V
+m173 i6 b1.67 V6 b2 i b2.67 V
+m173var1 i6 b2 i
+m174 VI b2 V || b2.67 V2
+m175 i6 b1.67 viio6 b2 i b2.67 viio
+m176 i b1.67 viio7/V b2 V ||
+m177 A: I b1.67 V4/3 b2 I6 b2.67 V6/5/IV
+m178 IV b1.67 V4/3/IV b2 IV6
+m180 IV6 b2 IV b2.67 viio6/ii
+m181 ii6 b1.67 V6/ii b2 ii b2.67 ii/o2
+m182 V6/5 b1.67 I b2 ii6 b2.67 V7
+m183 I ||
+m184 V b2 V7/ii
+m184var1 V b2 V9[b9]/ii
+m185 ii6 b2 ii
+m186 vi b2.33 V7/iii
+m186var1 vi b2.33 V9[b9]/iii
+m187 iii6 b2 iii
+m188 V7
+m189 I b2 IV
+m190 I6/4 b2 V7
+m191 I ||
+m192 V b2 v6
+m193 ii6 b2 ii
+m194 vi b2 vi6
+m195 iii6 b2 iii
+m196 V7
+m199 I b2 IV6
+m200 I6 b2 viio/V
+m201 I6/4 b2.33 V7
+m202 I ||
+m203 I6/4 b2.33 V7
+m204 I
+m205 I6/4 b2.33 V7
+m206 I ||
+m207 I
+m208 V9/IV b2.67 V6/5/IV
+m209 IV b1.33 viio6/ii b1.67 ii b2 I6/4 b2.33 V7
+m210 I ||
+m211 I
+m212 viio7/ii
+m213 ii b1.67 ii6 b2 I6/4 b2.33 V7
+m214 I || b2 V7
+m215 I b2 V7
+m216 I b2 V7
+m217 I b2 V7
+m218 I
+m219a I ||
+m220a b2 f#: V
+Note: I needed to add in this superfluous key for nht’s sake. Since this is a ‘b’ measure, it should theoretically take the key of the corresponding ‘a’ measure, right? Instead the program was reading the key as f# here. Not sure if the problem lies in the .mxl file or in the rntext reader or how I’ve written this .txt file.
+m219b A: I
+m222 I
+m223 I6 b1.33 IV b1.67 V6/4 b2 I6
+m224 I b2 V7
+m225 I ||
+
+
