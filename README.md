@@ -1,6 +1,6 @@
 # BeethovenStats
 
-This repository holds a suite of python programs that I wrote in order to statistically analyze harmonies in the Beethoven String Quartets, using music data from the Annotated Beethoven Corpus (https://github.com/DCMLab/ABC).
+This repository holds a suite of python programs that I wrote in order to statistically analyze harmonies in the Beethoven String Quartets, using the music21 python library, as well as music data from the Annotated Beethoven Corpus (https://github.com/DCMLab/ABC).
 
 ## Contents
 
@@ -40,6 +40,23 @@ progs.py contains the progs object, which stores a collection of chord progressi
 
 ### getStats.py
 getStats.py is a rather messy program which I used to collect the actual statistical data enabled by the other programs. Currently, its commenting does not allow for easy use, but I include it here as an example of how the above programs might be used for statistical analysis.
+
+### csvOperations.py, showMeasures.py
+two helper programs for getStats.py
+
+## Libraries used
+
+- music21
+- pickle
+- numpy
+- pandas
+- matplotlib.pyplot
+- random
+- tabulate
+- re
+- os
+- pprint
+- pathlib
 
 
 
