@@ -1,0 +1,330 @@
+Composer: Beethoven
+Piece: Op. 18 no. 5
+Analyst: Rohrmeier et al.
+Movement: 4
+Time Signature: 2/2
+
+Form: Exposition
+Note: temp ts for nht
+Time Signature: 2/2
+m0 b2.25 A: V
+m1 I6/4 b2 I
+Note: viola part features seventh which seems not to resolve downward by step.
+m3 V7 b2 I
+m4 V7 b2 I
+m5 V b2 V7/V
+m6 V ||
+m7 V7
+m9 I b2 V7
+m10 I b2 V7
+m11 I b2 V7
+m12 I b2.5 V6
+m13 I
+m14 V
+m15 V7
+m16 I6 b2.5 V
+m17 I
+m18 V b2.5 I
+m19 V4/3
+m20 I b2 vi6
+m21 E: I6
+m22 viio6
+m23 vi6
+m24 V6
+m25 viio6/V
+m26 V b2 V7
+Note: Not sure about the inversion of i here.
+m27 I b2 i6 b2.5 i
+m28 V b2 V7
+Note: Of course ditto here.
+m29 I b2 i6 b2.5 i
+m30 V b2 V7
+m31 I b2 i6 b2.5 i
+m32 V b2 V7
+m33 I b2 i6 b2.5 i
+m34 V b1.5 i b2 V b2.5 i
+m35 V ||
+m36 I
+Note: chromatically descending diminished seventh chords
+m37 viio7/V
+m38 viio4/3
+m39 viio7/iv
+Note: some chromatic sliding here.
+m40 viio4/3/bVII b2 bVII6
+m41 viio6 b2 I
+m42 ii6 b2 V6/V b2.5 V6/5/V
+m43 V ||
+m44 I
+m45 IV
+m46 viio
+m47 iii
+m48 vi b2 ii
+m49 V7 b2 I b2.5 I6
+m50 ii6 b1.5 ii b2 I6/4 b2.5 V7
+Note: This passage is really quite tricky due to syncopation + the contrary thirds idiom, and it’s really quite a whir of lightning-quick V-I switches. I’m not really satisfied with either of the solutions I’ve put down.
+m51 I ||
+m52 V b2 V7
+m52var1 b1.5 V7
+m53 I
+m53var1 b1.5 I
+m54 V b2 V7
+m54var1 b1.5 V7
+m55 I b2 V7/ii
+m55var1 b1.5 I b2 V7/ii
+m56 ii b2 V7/IV
+m56var1 b1.5 ii b2 V7/IV
+m57 IV
+m57var1 b1.5 IV
+m58 I6/4 b2 V ||
+m59 I b1.5 V6 b2 IV6 b2.5 I6/4
+m60 IV b1.5 I6 b2 V4/3 b2.5 I
+m61 V6/5
+m62 I b1.5 ii6 b2 I6/4 b2.5 V7
+m63 I b1.5 V6 b2 IV6 b2.5 I6/4
+m64 IV b1.5 I6 b2 V4/3 b2.5 I
+m65 viio7
+m67 V9[b9]/vi b2 vi
+m68 V9[b9]/V b2 v
+m69 V9[b9]/IV b2 IV
+m70 I6/4 b2 V7
+m71 I ||
+m72 viio6/5/ii
+m73 ii6
+m74 V9
+m75 I ||
+m76 viio6/5/ii
+m77 ii6
+m78 V9 b2.5 V7
+m79 I ||
+m80 V6/5
+m81 I
+m82 V7
+m83 I
+m84 V6/5
+m85 I
+m86 V7
+m87 I
+m88 V7
+m89 I
+m90 V7
+m91 I A: V ||
+m92 V7
+m93a V7
+
+Note: Temporary time signature for nht.
+Form: Development
+Time Signature: 5/8
+m94a V7
+
+Time Signature: 2/2
+m93b f#: viio7
+m94b V6/5
+m95 i6/4 b2 i
+m96 i
+m97 V7 b2 i
+m98 V7 b2 i
+m99 v b2 V7/v
+m100 v ||
+m101 D: V7
+m102 I
+m104 V7 b2 I
+m105 V7 b2 I
+m106 V7 b2 I
+m107 viio6 b2 vi6
+m108 V6 b2 IV6
+m109 I6/4 b2 V7
+m110 i || b2 d: i6
+m111 bVII6 b2 VI6
+m112 v6 b2 iv6
+m113 i6/4 b2 V2
+Note: Descending fifth sequence.
+m114 i || b2 g: V9[b9]
+m115 i6/4 b2 V7
+Note: this V9 needs an inversion
+m116 I C: V b2 V9
+m117 I6 b2 V4/3
+m118 I F: V b2 V9
+m119 I6/4 b2 V7
+m120 I C: IV b2 vi2
+m121 ii6 b2 V6/5/V
+m122 V || b2 V7
+m123 b2 I6/4
+m124 b2 V9
+m124var1 I6/4
+m125 V7 b2 I6/4
+m126 V b2 V7
+m127 I6/4
+m129 V7 b2 I6/4
+m130 V b1.5 V7/V b2 V b2.5 V7/V
+m131 V ||
+m132 I
+m133 IV
+m134 V
+m135 I6
+Note: Textural considerations cause the verticalities on b2 to sound like chords in their own right, while in the parallel passage in the exposition the same pitch classes sound like passing tones.
+m136 I b2 vi
+m137 IV b2 ii
+m138 V6/5
+m139 I b1.5 V7/vi
+m140 a: i b2 VI
+m141 iv b2 iio
+m142 V6/5
+m143 i e: iv b1.5 V7 b2 iv6 b2.5 V6/5
+m144 i b2 VI
+m145 iv
+m146 V7
+m147 a: V7
+m148 V7/IV b2 V7/VII
+m149 V7/III b2 V7/VI
+m150 VI
+m151 iio6 b2.5 viio7/V
+m152 V ||
+m153 viio7
+m154 i6/4
+m155 viio7/V
+m156 V
+m157 viio7
+m158 I6/4
+m159 viio7/V
+m160 V
+m161 viio7/V
+m162 V
+m163 viio7/V
+m164 V
+m165 V7
+
+Form: Recapitulation
+m168 I6/4 b2 I
+m170 V7 b2 I
+m171 V7 b2 I
+m172 V b2 V7/V
+m173 V ||
+m174 V7
+m175 V7
+m176 I b2 V7
+m177 I b2 V7
+m178 I b2 V7
+m179 I b2.5 V
+m180 I
+m181 V
+m182 V7
+m183 I
+m184 IV
+m185 I6
+m186 V4/3/IV
+m187 D: I b2.5 viio
+m188 I b1.5 viio b2.5 I
+m189 viio b2.5 I
+m190 viio
+m191 I b2 vi6 A: ii6
+m192 I6
+m193 viio6
+m194 vi6
+m195 V6
+m196 V6/5/V
+m197 V b2 V7
+m198 I b2 i6 b2.5 i
+m199 V b2 V7
+m200 I b2 i6 b2.5 i
+m201 V b2 V7
+m202 I b2 i6
+m203 V b2 V7
+m204 I b2 i6
+m205 V b1.5 i b2 V b2.5 i
+m206 V ||
+m207 I
+m208 IV
+m209 V
+m210 viio6/5/ii
+m211 V/ii b2 ii
+Note: ii-I6-ii6 progression here!
+Note: ^ Sure, I think so too. I think one crucial factor which makes this work is that the I6 and ii6 are both first inversion chords; i.e., a teeny fauxbourdon, the ii6-i6-ii6 figure being fairly standard in Mozart. Also, if we are to take a hint from the first parallel passage at m41, we would have the same bVII-I but tonicized to d minor, where bVII acts sort of like a viio.
+m212 b2 I6
+m213 ii6 b2 V6/5/V
+m214 V ||
+m215 I
+m216 IV
+m217 viio
+m218 iii
+m219 IV6 b2 ii
+m219var1 vi b1.5 IV b2 ii
+m220 V7 b2 I b2.5 I6
+m221 ii6 b1.5 ii b2 I6/4 b2.5 V7
+Note: here’s that tricky passage again.
+m222 I ||
+m223 V b2 V7
+m223var1 b1.5 V7
+m224 I
+m224var1 b1.5 I
+m225 V b2 V7
+m225var1 b1.5 V7
+m226 I b2 V7/ii
+m226var1 b1.5 I b2 V7/ii
+m227 ii b2 V7/IV
+m227var1 b1.5 ii b2 V7/IV
+m228 IV
+m228var1 b1.5 IV
+m229 I6/4 b2 V ||
+m230 I b1.5 V6 b2 IV6 b2.5 I6/4
+m231 IV b1.5 I6 b2 V4/3 b2.5 I
+m232 V6/5
+m233 I b1.5 ii6 b2 I6/4 b2.5 V7
+m234 I b1.5 V6 b2 IV6 b2.5 I6/4
+m235 IV b1.5 I6 b2 V4/3 b2.5 I
+m236 viio7
+m238 V9[b9]/vi b2 vi
+m239 V9[b9]/V b2 v
+m240 V9[b9]/IV b2 IV
+m241 I6/4 b2 V7
+m242 I ||
+m243 vii6/5/ii
+m244 ii6
+m245 V9
+m246 I
+m247 viio6/5/ii
+m248 ii6
+m249 V9
+m250 I
+m251 V6/5
+m252 I
+m253 V7
+m254 I
+m255 V6/5
+m256 I
+m257 V7
+m258 I
+m259 V7
+m260 I
+m261 V7
+
+Form: Coda
+m264 I
+m266 V7 b2 I
+m267 V7 b2 I
+m268 V b2 V7/V
+m269 V || b2.5 V7/IV
+m270 IV b2 V7/IV
+m271 IV
+m271 var1 IV b2 V7/IV
+m272 IV b2 V7/IV
+m273 IV
+m274 I b2 V7
+m275 I
+m276 b2 V7
+m277 I
+m278 I6
+m279 ii6
+m280 V7
+m281 I b2 I6
+m282 I6
+m283 ii6
+m284 V7
+m285 I ||
+m286 V6/5
+m287 I
+m288 V7
+m289 I
+m290 V6/5
+m291 I
+m292 V7
+m293 I ||
